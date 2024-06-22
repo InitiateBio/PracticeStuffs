@@ -11,7 +11,15 @@ I will branch different frameworks from main, and you can go from there!!
 Here is some helpful links: (I believe Studio accepts C, C++, C#, and Python) 
 I am teaching the kids C#, my preference, so i'll just share the C# reference.
 
-C# Reference:
+Logic Reference:
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/boolean-logical-operators
+
+Switch Cases and If/Then Statements:
+https://www.w3schools.com/cs/cs_switch.php
+
+https://www.w3schools.com/cs/cs_conditions.php
+
+C# Langauge Reference:
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/
 
 Studio Code Basics:
