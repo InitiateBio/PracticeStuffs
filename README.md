@@ -18,6 +18,7 @@ Studio Code Basics:
 https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio?pivots=dotnet-8-0
 
 Some videos:
+
 Studio:
 https://youtu.be/8bOoiftm5wM?si=AK4gZ4TEa5zDZLwY
 
